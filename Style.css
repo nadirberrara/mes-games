@@ -1,5 +1,6 @@
 body {
   color: white;
+  font-family: avenir;
 }
 
 .container {
@@ -7,4 +8,10 @@ body {
   width: 600px;
   height: 400px;
   padding: 30px;
+}
+
+#pari {
+  transition: 0.5s;
+  visibility: hidden;
+  opacity: 0;
 }
