@@ -1,0 +1,10 @@
+body {
+  color: white;
+}
+
+.container {
+  background-color: darkblue;
+  width: 600px;
+  height: 400px;
+  padding: 30px;
+}
